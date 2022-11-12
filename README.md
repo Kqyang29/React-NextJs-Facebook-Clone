@@ -2,8 +2,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Deploy URL:
+Deploy in Vercel URL:
   - https://react-next-js-facebook-clone.vercel.app/
+
+Database:
+  - Firebase
+  - Firebase-storage
+  - Firebase-cloud-firestore
+
+Tech:
+  - TailWind CSS
+  - Next.js
+  - React-Firebase-Hook
+  - OAuth (Google)
+ 
+ Features:
+  - User can Signin with Google and Signout by click the Avatar Picture in Header
+  - User can post the Message and Picture in the InputBox
 
 First, run the development server:
 
