@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Deploy URL:
+  - https://react-next-js-facebook-clone.vercel.app/
+
 First, run the development server:
 
 ```bash
