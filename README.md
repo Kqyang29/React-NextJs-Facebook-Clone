@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 Deploy in Vercel URL:
-  - https://react-next-js-facebook-clone.vercel.app/
+  - https://react-next-js-facebook-clone-6ot4pad8k-kqyang29.vercel.app/
 
 Database:
   - Firebase
