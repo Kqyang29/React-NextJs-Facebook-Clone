@@ -7,14 +7,13 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDNY8QNA1NGVT2vkenghiT2lojxkHGOTvg",
-  authDomain: "react-next-facebook.firebaseapp.com",
-  projectId: "react-next-facebook",
-  storageBucket: "react-next-facebook.appspot.com",
-  messagingSenderId: "315857181006",
-  appId: "1:315857181006:web:dcf4531714c92e06a9e61f"
+  apiKey: "AIzaSyBjHy0u9SmML140uXQUCLv944Mpm498J5g",
+  authDomain: "linkedin-clone-3dccb.firebaseapp.com",
+  projectId: "linkedin-clone-3dccb",
+  storageBucket: "linkedin-clone-3dccb.appspot.com",
+  messagingSenderId: "424920140635",
+  appId: "1:424920140635:web:7af29b23c9229255c7287e"
 };
-
 // Initialize Firebase
 // check if already initialize bc we are doing server side rending, it could be edge cases where we are already render
 const app = firebase.initializeApp(firebaseConfig);
